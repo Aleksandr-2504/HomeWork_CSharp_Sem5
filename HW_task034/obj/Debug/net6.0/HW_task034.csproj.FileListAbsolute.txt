@@ -1,0 +1,15 @@
+C:\Users\plesh\Desktop\Обучение по программе РАЗРАБОТЧИК\3_Знакомство с языками программирования\CSharp\HomeWork\HW_Seminar5\HW_task034\obj\Debug\net6.0\HW_task034.csproj.AssemblyReference.cache
+C:\Users\plesh\Desktop\Обучение по программе РАЗРАБОТЧИК\3_Знакомство с языками программирования\CSharp\HomeWork\HW_Seminar5\HW_task034\obj\Debug\net6.0\HW_task034.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\plesh\Desktop\Обучение по программе РАЗРАБОТЧИК\3_Знакомство с языками программирования\CSharp\HomeWork\HW_Seminar5\HW_task034\obj\Debug\net6.0\HW_task034.AssemblyInfoInputs.cache
+C:\Users\plesh\Desktop\Обучение по программе РАЗРАБОТЧИК\3_Знакомство с языками программирования\CSharp\HomeWork\HW_Seminar5\HW_task034\obj\Debug\net6.0\HW_task034.AssemblyInfo.cs
+C:\Users\plesh\Desktop\Обучение по программе РАЗРАБОТЧИК\3_Знакомство с языками программирования\CSharp\HomeWork\HW_Seminar5\HW_task034\obj\Debug\net6.0\HW_task034.csproj.CoreCompileInputs.cache
+C:\Users\plesh\Desktop\Обучение по программе РАЗРАБОТЧИК\3_Знакомство с языками программирования\CSharp\HomeWork\HW_Seminar5\HW_task034\bin\Debug\net6.0\HW_task034.exe
+C:\Users\plesh\Desktop\Обучение по программе РАЗРАБОТЧИК\3_Знакомство с языками программирования\CSharp\HomeWork\HW_Seminar5\HW_task034\bin\Debug\net6.0\HW_task034.deps.json
+C:\Users\plesh\Desktop\Обучение по программе РАЗРАБОТЧИК\3_Знакомство с языками программирования\CSharp\HomeWork\HW_Seminar5\HW_task034\bin\Debug\net6.0\HW_task034.runtimeconfig.json
+C:\Users\plesh\Desktop\Обучение по программе РАЗРАБОТЧИК\3_Знакомство с языками программирования\CSharp\HomeWork\HW_Seminar5\HW_task034\bin\Debug\net6.0\HW_task034.dll
+C:\Users\plesh\Desktop\Обучение по программе РАЗРАБОТЧИК\3_Знакомство с языками программирования\CSharp\HomeWork\HW_Seminar5\HW_task034\bin\Debug\net6.0\HW_task034.pdb
+C:\Users\plesh\Desktop\Обучение по программе РАЗРАБОТЧИК\3_Знакомство с языками программирования\CSharp\HomeWork\HW_Seminar5\HW_task034\obj\Debug\net6.0\HW_task034.dll
+C:\Users\plesh\Desktop\Обучение по программе РАЗРАБОТЧИК\3_Знакомство с языками программирования\CSharp\HomeWork\HW_Seminar5\HW_task034\obj\Debug\net6.0\refint\HW_task034.dll
+C:\Users\plesh\Desktop\Обучение по программе РАЗРАБОТЧИК\3_Знакомство с языками программирования\CSharp\HomeWork\HW_Seminar5\HW_task034\obj\Debug\net6.0\HW_task034.pdb
+C:\Users\plesh\Desktop\Обучение по программе РАЗРАБОТЧИК\3_Знакомство с языками программирования\CSharp\HomeWork\HW_Seminar5\HW_task034\obj\Debug\net6.0\HW_task034.genruntimeconfig.cache
+C:\Users\plesh\Desktop\Обучение по программе РАЗРАБОТЧИК\3_Знакомство с языками программирования\CSharp\HomeWork\HW_Seminar5\HW_task034\obj\Debug\net6.0\ref\HW_task034.dll
